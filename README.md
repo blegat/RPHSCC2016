@@ -8,7 +8,7 @@ This directory contains code to recreate the examples from
 The result of this paper were obtained using the CSSystem toolbox in Matlab.
 The same example is used in the journal version of this work but the results
 of this journal version were obtained using the [SwitchOnSafety](https://github.com/blegat/SwitchOnSafety.jl) toolbox in [Julia](https://julialang.org/).
-You can find below the details on how to reproduce the results of this example either in Julia or Matlab.
+You can find below the details on how to reproduce the results of this example in either Julia or Matlab.
 
 ## Julia
 

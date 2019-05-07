@@ -5,7 +5,7 @@ This directory contains code to recreate the examples from
 > Sum-Of-Squares techniques" in Hybrid Systems Computational &
 > Control, ACM (2016).
 
-The result of this paper were obtained using the CSSystem toolbox in Matlab.
+The result of this paper were obtained using the [CSSystem toolbox](https://bitbucket.org/lcambier/cjsr/) in Matlab.
 The same example is used in the journal version of this work but the results
 of this journal version were obtained using the [SwitchOnSafety](https://github.com/blegat/SwitchOnSafety.jl) toolbox in [Julia](https://julialang.org/).
 You can find below the details on how to reproduce the results of this example in either Julia or Matlab.
